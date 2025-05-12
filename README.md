@@ -21,7 +21,7 @@ Detailed Report: The result is displayed, indicating whether the URL is safe or 
 
 🛠 Installation
 Clone the repository:
-git clone https://github.com/your-username/phishing-link-scanner.git
+git clone https://github.com/gopipalakaluri/phishing-link-scanner.git
 cd phishing-link-scanner
 
 Install dependencies:
