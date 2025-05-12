@@ -73,7 +73,6 @@ if st.button("Analyze URL"):
                 st.markdown(report)
     else:
         st.warning("Please enter a URL.")
-
 st.markdown("---")
 st.markdown("<h3 style='text-align: center; color: orange;'>Developed by Gopi Palakaluri 🤠</h3>",unsafe_allow_html=True)
 st.markdown("<h2 style='text-align: center;'>Developed with Streamlit | Gemini-Powered Phishing Detection</h2>",unsafe_allow_html=True)
