@@ -1,1 +1,1 @@
-API_KEY="Paste Your api key here"
+API_KEY="AIzaSyCw419A49WGdti0K9zPlTqklaRiZxThO0I"
